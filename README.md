@@ -1,3 +1,11 @@
+Current project can be found at althaf_jammer.surge.sh
+Future developments:
+- Images in the results bar
+- Preview of songs
+- Editing existing playlist
+- Prevent having playlists with same name
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
